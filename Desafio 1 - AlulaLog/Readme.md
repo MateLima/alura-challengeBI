@@ -6,11 +6,11 @@
 
 ### Índice
 
-[Estudo de Caso](#estudo de caso)
+[Estudo de Caso](#estudodecaso)
 
 [Requisitos](#requisitos)
 
-[Base de Dados](#base de dados)
+[Base de Dados](#basededados)
 
 [Solução](#solução)
 
@@ -124,15 +124,12 @@ A Pedidos tem como base da tabela pedidos e se relaciona com as tabelas de produ
 
 Os relacionamentos foram da seguinte forma:
 
-**IMAGEM Pedidos** 
-
-
+![image](https://user-images.githubusercontent.com/91086296/135206281-8099c99a-ba32-4e84-b2af-dcf630445f68.png)
 
 
 A fonte Estoque tem como base a tabela estoque  e se relaciona com a tabela de produtos.
 
-**IMAGEM estoque** 
-
+![image](https://user-images.githubusercontent.com/91086296/135206388-eb441ef6-b785-4979-8e4e-cf98fdbb2b42.png)
 
 
 ##### Passo 3: Medidas 
@@ -184,16 +181,14 @@ Você pode acessar o dashboard interativo completo clicando  **[AQUI](https://ap
 - S2D Médio exibido em um gráfico de linhas
 - Quantidade de pedidos realizados por estado exibido em um mapa
 
-**IMAGEM DASH**
-
+![image](https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png)
 
 
 **O painel produtos** traz alguns outros insights interessantes. Os cards e filtros permanecem os mesmos, mas há o acréscimo de:
 
 - Top 5 categorias mais vendidas exibidas em Arvore Hierárquica.
 
-**imagem DASH 2**
-
+![image](https://user-images.githubusercontent.com/91086296/135206497-ccd50c7d-815f-4a59-8f2a-9eac9cea4870.png)
 
 
 ### Contato
