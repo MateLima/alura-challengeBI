@@ -6,11 +6,11 @@
 
 ### Índice
 
-[Estudo de Caso](#estudo de caso)
+[Estudo de Caso](#estudodecaso)
 
 [Requisitos](#requisitos)
 
-[Base de Dados](#base de dados)
+[Base de Dados](#basededados)
 
 [Solução](#solução)
 
