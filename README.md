@@ -25,3 +25,7 @@ A pessoa que gerencia a área de logística da Alura Log, está  enfrentando alg
 - Extra: Incluir outros insights relevantes.
 
 Veja minha solução para o desafio 1:
+
+<p align="center">
+  <a href="https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png"><img src="https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png" width="500" position="center"/></a>
+</p>
