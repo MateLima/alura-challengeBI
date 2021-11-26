@@ -107,13 +107,15 @@ Você pode ler o artigo [aqui](https://medium.com/@paulgambill/how-to-import-jso
 
 O script gera uma fórmula muito simples de ser utilizada:
 
-**Imagem**
+````
+ImportJSON(url; query; options)
+````
 
 Onde **URL** é o link de origem do arquivo JSON, **query** é uma série de comandos caso você queira trazer os dados com alguma manipulação e **option** realiza algumas funções extras como a *noInherit* que desativa a herança de dados de hierarquias superiores e *noTruncate* para garantir que ser dados sejam exibidos por completo.
 
 Após essa importação, conectei ambas tabelas no Data Studio
 
-**Imagem 2**
+![image](https://user-images.githubusercontent.com/91086296/143540606-ab359edc-d840-4f59-9264-dbe67af62832.png)
 
 Na Tabela Dispositivos fiz alterações nos tipos de dados:
 
@@ -180,11 +182,11 @@ Você pode acessar o dashboard interativo completo clicando **[AQUI](https://dat
 
 Além de trazer um gráfico de funil para apresentar a jornada de compras, um gráfico de barras para exibir o ticket médio por dispositivo e, para uma métrica extra, um gráfico de linhas suavizado para exibir o alcance por dia por plataforma.
 
-**imagem 3**
+![image](https://user-images.githubusercontent.com/91086296/143540786-9f27c264-421b-4c02-91c9-cf98518a30eb.png)
 
 Já o **painel Clientes** traz os mesmos cards do painel anterior, mas algumas métricas para os clientes da plataforma, sendo elas um gráfico de barras empilhadas para exibir o ROAS por idade e gênero, um gráfico de rosca para exibir a quantidade de compras por gênero e um gráfico de linhas/séries temporais para exibir o valor de conversão de compras por dia.
 
-**imagem 4**
+![image](https://user-images.githubusercontent.com/91086296/143540825-88473940-6335-4402-9b52-827a6ef0974d.png)
 
 ### Contato
 
