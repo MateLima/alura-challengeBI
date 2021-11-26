@@ -31,7 +31,7 @@ Veja minha solução para o desafio 1:
 </p>
 
 
-## Desafio 2: AluraShop - Dashboard de Marketing
+## Desafio 2: AluraShop - Dashboard de E-Commerce
 
 ### Estudo de caso:
 
