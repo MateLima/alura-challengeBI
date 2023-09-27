@@ -1,6 +1,6 @@
 # Alura Challenge BI :computer::chart_with_downwards_trend:
 
-4 semanas de desafios propostos pela alura para desenvolver dashboards com dados logísticos, de marketing e financeiros.
+Semanas de desafios propostos pela alura para desenvolver dashboards com dados logísticos, de marketing e financeiros.
 
 ## 
 
