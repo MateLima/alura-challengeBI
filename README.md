@@ -27,7 +27,7 @@ A pessoa que gerencia a área de logística da Alura Log, está  enfrentando alg
 Veja minha solução para o desafio 1:
 
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png"><img src="https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png" width="500" position="center"/></a>
+  <a href="https://github.com/MateLima/alura-challengeBI/tree/main/Desafio%201%20-%20AlulaLog"><img src="https://user-images.githubusercontent.com/91086296/135206469-adf33a21-1714-49e1-89f4-cf684a3b4397.png" width="500" position="center"/></a>
 </p>
 
 
@@ -61,5 +61,5 @@ Veja minha solução para o desafio 2:
 
 
 <p align="center">
-  <a href="https://user-images.githubusercontent.com/91086296/143540786-9f27c264-421b-4c02-91c9-cf98518a30eb.png"><img src="https://user-images.githubusercontent.com/91086296/143540786-9f27c264-421b-4c02-91c9-cf98518a30eb.png" width="500" position="center"/></a>
+  <a href="https://github.com/MateLima/alura-challengeBI/tree/main/Desafio%202%20-%20AluraShop"><img src="https://user-images.githubusercontent.com/91086296/143540786-9f27c264-421b-4c02-91c9-cf98518a30eb.png" width="500" position="center"/></a>
 </p>
